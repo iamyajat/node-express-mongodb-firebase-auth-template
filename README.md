@@ -20,7 +20,7 @@ This repository provides a boilerplate for building a Node.js application with E
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/node-express-mongodb-firebase-auth-template.git
+   git clone https://github.com/iamyajat/node-express-mongodb-firebase-auth-template.git
    cd node-express-mongodb-firebase-auth-template
    ```
 
